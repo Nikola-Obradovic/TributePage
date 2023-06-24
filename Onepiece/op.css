@@ -52,7 +52,7 @@
   }
   nav> div> ul >  li{
   display: inline-block;
-  font-family:papyrus;
+  font-family:papyrus, "Times New Roman";
   font-size: 1.3vw;
   color: white;
   margin-right: 70px;
@@ -173,7 +173,7 @@
   font-weight: 1000;
   font-size: 2.5vw;
   margin-bottom: 40px;
-  font-family: papyrus;
+  font-family: papyrus, "Times New Roman";
   scroll-margin-top: 2em;
   }
   @media only screen and (max-width: 1600px) {
@@ -259,7 +259,7 @@
   
   font-size:calc(12px + 0.8vw);
   text-align: justify;
-  font-family: papyrus;
+  font-family: papyrus, "Times New Roman";
   
   }
   
@@ -312,7 +312,7 @@
 p{
     font-size:45px;
     text-align: justify;
-    font-family: papyrus;
+    font-family: papyrus, "Times New Roman";
     
 
 
@@ -339,7 +339,7 @@ p{
 
         nav> div> ul >  li{
           display: inline-block;
-          font-family:papyrus;
+          font-family:papyrus, "Times New Roman";
        font-size: 1.3rem;
        color: white;
        margin-right: 20px;
